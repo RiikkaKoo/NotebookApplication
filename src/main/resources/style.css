@@ -1,0 +1,35 @@
+#mainLayout {
+    -fx-background-color: #e0fff9;
+}
+
+#error {
+    -fx-text-fill: darkred;
+    -fx-font-weight: bold;
+}
+
+#addButton {
+    -fx-background-color: #58b5f1;
+    -fx-text-fill: white;
+}
+
+#addButton:hover {
+    -fx-background-color: #3190c5;
+}
+
+#deleteButton {
+    -fx-background-color: #c3234e;
+    -fx-text-fill: white;
+}
+
+#deleteButton:hover {
+    -fx-background-color: #980c2f;
+}
+
+#saveEditsButton {
+    -fx-background-color: #2eaf77;
+    -fx-text-fill: white;
+}
+
+#saveEditsButton:hover {
+    -fx-background-color: #157850;
+}
